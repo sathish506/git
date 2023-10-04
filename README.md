@@ -34,3 +34,18 @@ Typically, either you work on  :
     c)  bug           [ bug/payments-correction ]
 
 Hotfixes are used to addess quick correction of a bug or a defect usually to expedit the process and place corrections on prod straight away.
+
+## Common Git Commands
+-----------------------
+    $ git branch                                            // shows you which branch you're on right now 
+    $ git branch branchName                                 // Creates a branch with a name brancName by taking your branch code as a source 
+    $ git checkout branchName                               // Switches your branch to branchName 
+    $ git checkout -b branchName                            // Creates branch and switches to the branch
+    $ git pull origin branchName                            // origin represents remote repository
+    $ git push origin branchName                            // pushes changes to remote repository
+    $ git fetch origin branchName                           // Downloads the changes, but they won't be applied, they will stay in staging
+    $ git merge                                             // Downloaded changes will be applied
+
+## Git Fetch vs Git Pull
+------------------------
+The key difference between git fetch and pull is that git pull copies changes from a remote repository directly into your working directory, while git fetch does not. The git fetch command only copies changes into your local Git repo and if you want to merge your changes fetched by git fetch, switch to the branch of your choice and then do a git merge. The git pull command does both.
