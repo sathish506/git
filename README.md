@@ -1,4 +1,4 @@
-# git
+# Git: 
 
 ## Important Notes and commands related to GIT ###
 
