@@ -1,6 +1,6 @@
 # git
 
-# Important Notes and commands related to GIT ###
+## Important Notes and commands related to GIT ###
 
 ### git : Is a local version control system
 
