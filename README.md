@@ -32,3 +32,5 @@ Typically, either you work on  :
     a)  feature       [ feature/payment-enhancement ,  feature/password-auth ]
     b)  hotfix        [ hotfix/defect-correction ]
     c)  bug           [ bug/payments-correction ]
+
+Hotfixes are used to addess quick correction of a bug or a defect usually to expedit the process and place corrections on prod straight away.
