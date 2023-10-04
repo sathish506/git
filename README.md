@@ -56,4 +56,4 @@ Whenever you push any changes and if they look good and stable on main branch, t
 
 Git Tag : Creating a name to a commit, which can referenced later and using that we can make the software.
 
-
+#### GIT Has Branch Protection Rules Enabled to ensure you cannot push your changes directly to the MAIN Branch and always changes has to go through Pull Request only.
