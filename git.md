@@ -1,0 +1,1 @@
+Git and Linux are like oceans, infinite things are there to learn. Both of them are created by the same person : Linux Torvolds.
